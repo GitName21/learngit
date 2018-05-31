@@ -6,3 +6,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 
 $ git add readme.txt
+Creating a new branch is quick.
